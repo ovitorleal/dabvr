@@ -55,10 +55,10 @@ const AnimationManager = {
 const PortalData = [
 
     {
-        id: 'pactuacao',
-        title: 'Pactuação Bipartite',
-        description: 'Dados sobre a pactuação bipartite no município.',
-        url: 'https://lookerstudio.google.com/reporting/f1fbd188-4c7c-4814-959d-1d2279e60c55', // link atualizado 23/10 para looker dos indicadores.
+        id: 'indicadores',
+        title: 'Indicadores SIAPS',
+        description: 'Medidas de desempenho usadas para monitorar e avaliar a qualidade dos serviços de saúde prestados pelas equipes da Atenção Primária à Saúde ',
+        url: 'https://datastudio.google.com/s/n64D-UVr0Zs', // link para painel Ciro - att 03/08
         gradient: 'indicadores'
     }
 ];

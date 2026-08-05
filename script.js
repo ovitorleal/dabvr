@@ -60,6 +60,14 @@ const PortalData = [
         description: 'Medidas de desempenho usadas para monitorar e avaliar a qualidade dos serviços de saúde prestados pelas equipes da Atenção Primária à Saúde ',
         url: 'https://datastudio.google.com/s/n64D-UVr0Zs', // link para painel Ciro - att 03/08
         gradient: 'indicadores'
+    },
+
+    {
+        id: 'agendamentos',
+        title: 'Agendas e Absenteísmo',
+        description: 'Painel para monitorar agendamentos de consultas, atendimentos, faltas e absenteísmo, com filtros por unidade, distrito ou visão geral da rede.',
+        url: 'https://app.powerbi.com/view?r=eyJrIjoiMzNjZTRiZjktMDg2ZS00MDU5LTk3NWUtMmFmYTlhZGI0MjJjIiwidCI6ImUxOWVhYzBhLTJiZWEtNGYxMi04Yzg3LWNkNzk5YTg0MDhhZCJ9', // link para painel Ciro - att 03/08
+        gradient: 'agendamentos'
     }
 ];
 

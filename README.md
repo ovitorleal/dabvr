@@ -16,6 +16,8 @@ O portal é composto por cards que direcionam para dashboards externos produzido
 
 * **Indicadores SIAPS**: Dashboard com os indicadores do SIAPS (Sistema de Informação em Análise da Atenção Primária à Saúde), que são medidas de desempenho usadas para monitorar e avaliar a qualidade dos serviços de saúde prestados pelas equipes da Atenção Primária à Saúde (APS) no Sistema Único de Saúde (SUS).
 
+* **Agendas e Absenteísmo**: Dashboard com agendas com filtros por unidade de saúde, profissional responsável pelo atendimento e absenteísmo.
+
 
 
 

@@ -8,7 +8,7 @@ Este projeto está sendo desenvolvido como uma forma de aprimorar as habilidades
 
 ## 💻 Status do Projeto
 
-O portal está **em desenvolvimento**. Algumas seções e painéis de dados ainda estão em fase de construção e serão adicionados futuramente.
+O portal está **ativo** e conta com **4 painéis de dados** disponíveis para consulta. Novos painéis e funcionalidades poderão ser incorporados futuramente conforme a demanda da Área Técnica.
 
 ## 🏛️ Estrutura do Portal
 

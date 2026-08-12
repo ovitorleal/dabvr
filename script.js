@@ -58,9 +58,7 @@ const PortalData = [
         id:
             'indicadores',
         title:
-            'Indicadores SIAPS',
-        description:
-            'Medidas de desempenho usadas para monitorar e avaliar a qualidade dos serviços de saúde prestados pelas equipes da Atenção Primária à Saúde ',
+            'Componente Qualidade - Equipes Saúde da Família e Atenção Primária:',
         url:
             'https://datastudio.google.com/s/n64D-UVr0Zs', // link para painel Ciro - att 03/08
         gradient:
@@ -69,16 +67,35 @@ const PortalData = [
 
     {
         id:
+            'cadeia-consultorio-rua',
+        title:
+            'Componente Qualidade - Cadeia Pública e Consultório na Rua',
+        url:
+            'https://datastudio.google.com/reporting/36276796-ecb1-4729-9a0e-daf059b68b5d',
+        gradient:
+            'cadeia-consultorio-rua'
+    },
+
+    {
+        id:
+            'vinculo-acompanhamento',
+        title:
+            'Componente Vínculo e Acompanhamento Territorial',
+        url:
+            'https://datastudio.google.com/reporting/1f15b7d3-a96b-4e16-834b-2971b73f4ccd',
+        gradient:
+            'vinculo-acompanhamento'
+    },
+    {
+        id:
             'agendamentos',
         title:
             'Agendas e Absenteísmo',
-        description:
-            'Painel para monitorar agendamentos de consultas, atendimentos, faltas e absenteísmo, com filtros por unidade, distrito ou visão geral da rede.',
         url:
             'https://app.powerbi.com/view?r=eyJrIjoiMzNjZTRiZjktMDg2ZS00MDU5LTk3NWUtMmFmYTlhZGI0MjJjIiwidCI6ImUxOWVhYzBhLTJiZWEtNGYxMi04Yzg3LWNkNzk5YTg0MDhhZCJ9', // link para BI desenvolvido peli DIPIQ
         gradient:
             'agendamentos'
-    }
+    },
 ];
 
 // Main Rendering Function
@@ -92,7 +109,7 @@ const renderCards = () => {
             <a href="${panel.url}" target="_blank" rel="noopener noreferrer" class="card ${panel.gradient}" aria-label="Abrir seção ${panel.title}" role="button" tabindex="0">
                 <div class="card-gradient"></div>
                 <h3 class="card-title">${panel.title}</h3>
-                <p class="card-description">${panel.description}</p>
+                
             </a>
         `;
     });

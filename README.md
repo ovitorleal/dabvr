@@ -14,9 +14,13 @@ O portal está **em desenvolvimento**. Algumas seções e painéis de dados aind
 
 O portal é composto por cards que direcionam para dashboards externos produzidos pela Área Técnica da Secretaria Municipal de Saúde de Volta Redonda-RJ
 
-* **Indicadores SIAPS**: Dashboard com os indicadores do SIAPS (Sistema de Informação em Análise da Atenção Primária à Saúde), que são medidas de desempenho usadas para monitorar e avaliar a qualidade dos serviços de saúde prestados pelas equipes da Atenção Primária à Saúde (APS) no Sistema Único de Saúde (SUS).
+* **Componente Qualidade - Equipes Saúde da Família e Atenção Primária**: Dashboard com os indicadores de qualidade do SIAPS para as equipes de Saúde da Família (eSF) e Atenção Primária (eAP), permitindo monitorar e avaliar o desempenho assistencial das equipes no âmbito do Sistema Único de Saúde (SUS) em Volta Redonda-RJ
 
-* **Agendas e Absenteísmo**: Dashboard com agendas com filtros por unidade de saúde, profissional responsável pelo atendimento e absenteísmo.
+* **Componente Qualidade - Cadeia Pública e Consultório na Rua**: Dashboard com os indicadores de qualidade do SIAPS para as equipes da Cadeia Pública e do Consultório na Rua, permitindo monitorar e avaliar o desempenho assistencial dessas equipes no âmbito do Sistema Único de Saúde (SUS) em Volta Redonda-RJ.
+
+* **Componente Vínculo e Acompanhamento Territorial**: Dashboard com os indicadores de vínculo e acompanhamento territorial das equipes da Atenção Primária à Saúde, permitindo monitorar a cobertura e o acompanhamento das famílias cadastradas nos territórios de Volta Redonda-RJ.
+
+* **Agendas e Absenteísmo**: Dashboard com informações sobre agendamentos e absenteísmo das unidades de saúde, com filtros por unidade, profissional responsável e período, permitindo a análise e gestão da oferta de serviços da Atenção Primária em Volta Redonda-RJ.
 
 
 

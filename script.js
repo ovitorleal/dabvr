@@ -58,7 +58,7 @@ const PortalData = [
         id:
             'indicadores',
         title:
-            'Componente Qualidade - Equipes Saúde da Família e Atenção Primária:',
+            'Componente Qualidade - Equipes Saúde da Família e Atenção Primária',
         url:
             'https://datastudio.google.com/s/n64D-UVr0Zs', // link para painel Ciro - att 03/08
         gradient:
